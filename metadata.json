@@ -1,0 +1,5 @@
+{
+  "name": "Super Jogo da Velha",
+  "description": "Um jogo da velha estratégico e complexo com tabuleiros aninhados. Jogue contra amigos ou contra uma IA inteligente.",
+  "requestFramePermissions": []
+}
